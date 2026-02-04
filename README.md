@@ -2,7 +2,7 @@
 
 The experimentation platform used in the paper: **Leveraging Hidden-Space Representations Effectively in Bayesian Optimization for Experiment Design through Dimension-Aware Hyperpriors**. Paper access via ChemRxiv [link](xxx).
 
-For a tutorial on quick adaption based on [BayBE software](https://emdgroup.github.io/baybe/), see another [repo](xxx).
+For a tutorial on quick adaption based on [BayBE software](https://emdgroup.github.io/baybe/), see another [repo](https://github.com/chimie-paristech-CTM/HSF-ChemBO-tutorial).
 
 ## Usage
 
