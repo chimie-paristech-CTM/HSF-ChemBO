@@ -1,6 +1,6 @@
 # HSF-ChemBO
 
-The experimentation platform used in the paper: **Leveraging Hidden-Space Representations Effectively in Bayesian Optimization for Experiment Design through Dimension-Aware Hyperpriors**. Paper access via ChemRxiv [link](xxx).
+The experimentation platform used in the paper: **Leveraging Hidden-Space Representations Effectively in Bayesian Optimization for Experiment Design through Dimension-Aware Hyperpriors**. Paper access via ChemRxiv [link](https://doi.org/10.26434/chemrxiv.10001986/v1).
 
 For a tutorial on quick adaption based on [BayBE software](https://emdgroup.github.io/baybe/), see another [repo](https://github.com/chimie-paristech-CTM/HSF-ChemBO-tutorial).
 
