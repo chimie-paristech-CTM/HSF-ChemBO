@@ -6,7 +6,7 @@ For a tutorial on quick adaption based on [BayBE software](https://emdgroup.gith
 
 ## Usage
 
-- First install packages in `requirements.txt` (pip is recommended).
+- First install packages in `requirements.txt` (pip is recommended) with Python 3.11.
 - **Cache pre-trained models in advance** through `python cache_pretrained_model.py`. A folder named "from_pretrained" will be created.
 - Define the combinations by modifying `param_grid` variable in `main.py`. For example, combine "CheMeleon" representation with "EDBO+" prior and PCA. There you can also define invalid combinations in `is_valid_combination()` function.
 - For reproducibility, use the command in `run.sh` .
